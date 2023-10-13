@@ -28,8 +28,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- Ahtasham Shafique
-- GitHub: [GitHub Profile](https://github.com/typescriptkamran)
+- Ahba Shafique
+- GitHub: [GitHub Profile](https://github.com/Ahbashafique)
 
 ## Acknowledgments
 
